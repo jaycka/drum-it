@@ -3,7 +3,7 @@ Project for Day 18 of Udemy 2023 Web Development Bootcamp: A simple, fully respo
 [Try it out](https://jaycka.github.io/dicee-it/)  
 ___  
 **Concepts and skills used in this project:**  
-`HTML` | `CSS` | `JavaScript` | `DOM` | `Higher Order Function` | `CallBack Function`
+`HTML` | `CSS` | `JavaScript` | `DOM` | `EventListener`
 ___
 **Features:**  
 * Listen to physical keyboard press;
